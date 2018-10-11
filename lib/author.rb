@@ -5,5 +5,9 @@ class Author
     self.name = name
   end
   
+  def posts
+    
+  end
+  
   
 end
