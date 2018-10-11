@@ -13,7 +13,7 @@ class Post
   end
   
   def author_name
-   self.any?{|author| author.name} 
+   self.author.name 
   end
   
 
