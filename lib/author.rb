@@ -6,5 +6,9 @@ class Author
     self.posts = []
   end
   
+  def add_post(apost)
+    
+    
+  end
   
 end
